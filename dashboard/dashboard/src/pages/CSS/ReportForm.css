@@ -1,0 +1,62 @@
+/* General styling for sections */
+
+.main-form {
+    width: 50%;
+    margin: 20px auto;
+    padding: 10px 95px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px  gray;
+    background-color: #f8f8f8;
+  }
+  h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+  }
+  /* Specific section styles */
+ .form-group .form-control {
+    margin-bottom: 10px;
+    width: 100%;
+    border-radius: 3px;
+    background-color: white;
+  }
+  
+  /* Button styling */
+  .btn-primary {
+    font-size: 16px;
+    padding: 10px 20px;
+    width: auto;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+
+  .form-group input {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+  }
+  
+  .form-group input:focus {
+    border-color: #007bff;
+  }
+  
+  /* Error message styling */
+  .error {
+    color: red;
+    font-size: 0.875em;
+    margin-top: 5px;
+  }
+  
