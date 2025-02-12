@@ -1,3 +1,4 @@
+Pathology Lab Management System built using [programming language/framework, e.g., React, Node.js, Express, MongoDB  etc.]. The system helps pathology labs manage patient records, test bookings, reports, billing, and doctor referrals efficiently. It provides an intuitive and user-friendly interface for patients, lab technicians, and administrators to streamline lab operations.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
